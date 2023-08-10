@@ -1,6 +1,6 @@
 # Instrucciones
 
-Crear un archivo con extensión `.md` y copiar el texto a continuación. A continuación, convertiré el texto a formato Markdown (.md).
+Crear un md file y resolver cada uno de los items solicitados a continución. Debe de colocar el comando utilizado asi como el resultado de este si es necesario. 
 
 ---
 
