@@ -202,3 +202,25 @@ Crear un archivo con extensión `.md` y copiar el texto a continuación. A conti
     ```bash
         drwxr-x--- 2 usuario1 grupo1 4096 Aug  9 15:11 /home/usuario1/directorio1
     ```
+
+## Reflexión
+
+## Por qué es importante gestionar correctamente los usuarios y permisos en un sistema operativo?
+
+La gestión adecuada de usuarios y permisos en un sistema operativo es crucial para:
+
+- **Seguridad:** Evitar accesos no autorizados y proteger datos sensibles.
+- **Privacidad:** Garantizar que solo los usuarios autorizados accedan a información específica.
+- **Organización:** Mantener el control sobre recursos y datos compartidos.
+- **Cumplimiento:** Cumplir con regulaciones y estándares de seguridad.
+
+## Otros comandos y técnicas para gestionar permisos en Linux
+
+Además de los comandos previamente mencionados, se pueden utilizar:
+
+- `chown`: Cambiar propietario.
+- `chgrp`: Cambiar grupo propietario.
+- `umask`: Establecer permisos predeterminados.
+- `setfacl`: Control de acceso avanzado.
+
+La correcta gestión de permisos asegura la integridad y confidencialidad del sistema.
